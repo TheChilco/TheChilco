@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheChilco
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++ and Unreal Engine
+- 🌱 I’m currently learning C# and Unity & Godot
 - 💞️ I’m looking to collaborate on Video Games
-- 📫 How to reach me - TheChilcoTv@gmail.com
+- 📫 How to reach me - peter.parkerlaslett@gmail.com
